@@ -1,3 +1,3 @@
 # mogushi_study
 
-push制限!!
+push制限!!!
