@@ -1,3 +1,3 @@
 # mogushi_study
-commitテスト
+commitテスト!
 push制限!!!
